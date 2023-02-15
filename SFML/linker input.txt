@@ -1,0 +1,7 @@
+release:
+winmm.lib;opengl32.lib;freetype.lib;sfml-window-s.lib;sfml-graphics-s.lib;sfml-audio-s.lib;sfml-network-s.lib;sfml-system-s.lib;
+debug:
+sfml-window-d.lib;sfml-graphics-d.lib;sfml-audio-d.lib;sfml-network-d.lib;sfml-system-d.lib;
+
+C/C++ preprocessor:
+SFML_STATIC;
